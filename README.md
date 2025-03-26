@@ -1,8 +1,9 @@
 # Student-Helper-App
-About the Project
+# About the Project
+
 This application is designed to bridge the gap between students and professionals, enabling meaningful connections for guidance and mentorship. It serves as a platform where students can seek help, enhance their professional network, and receive valuable career support.
 
-#Features
+# Features
 
 1.Professional Networking – Students can connect with professionals for career advice.
 
@@ -16,7 +17,7 @@ This application is designed to bridge the gap between students and professional
 
 6.Affordable Access – The platform ensures minimal charges for students.
 
-#Tech Stack
+# Tech Stack
 
 1.Frontend: HTML, CSS, JavaScript, React
 
@@ -24,4 +25,4 @@ This application is designed to bridge the gap between students and professional
 
 3.Database: MongoDB
 
-#Overall Stack: MERN (MongoDB, Express, React, Node.js)
+# Overall Stack: MERN (MongoDB, Express, React, Node.js)
